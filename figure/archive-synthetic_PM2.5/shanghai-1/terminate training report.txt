@@ -1,0 +1,2 @@
+  - [Info] Terminated at epoch : 61 with tr loss: 4560.94922 
+  - [Info] Converging RMSE:  0.21289, Converging acc:  0.61564 
